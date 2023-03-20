@@ -1,1 +1,1 @@
-# c-1
+Basit Bir Panel Uygulaması Tasarımlar İçin Kullanabilirsiniz.
